@@ -1,0 +1,9 @@
+C:\Users\jashliao\Desktop\WindowsForms_test\WindowsForms_test\bin\Debug\WindowsForms_test.exe.config
+C:\Users\jashliao\Desktop\WindowsForms_test\WindowsForms_test\bin\Debug\WindowsForms_test.exe
+C:\Users\jashliao\Desktop\WindowsForms_test\WindowsForms_test\bin\Debug\WindowsForms_test.pdb
+C:\Users\jashliao\Desktop\WindowsForms_test\WindowsForms_test\obj\Debug\WindowsForms_test.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\WindowsForms_test\WindowsForms_test\obj\Debug\WindowsForms_test.Properties.Resources.resources
+C:\Users\jashliao\Desktop\WindowsForms_test\WindowsForms_test\obj\Debug\WindowsForms_test.csproj.GenerateResource.Cache
+C:\Users\jashliao\Desktop\WindowsForms_test\WindowsForms_test\obj\Debug\WindowsForms_test.exe
+C:\Users\jashliao\Desktop\WindowsForms_test\WindowsForms_test\obj\Debug\WindowsForms_test.pdb
+C:\Users\jashliao\Desktop\WindowsForms_test\WindowsForms_test\obj\Debug\WindowsForms_test.Form1.resources
